@@ -1,8 +1,8 @@
-package web.config.service;
+package web.service;
 
-import web.config.DAO.CarDao;
-import web.config.DAO.CarDaoImpl;
-import web.config.model.Car;
+import web.dao.CarDao;
+import web.dao.CarDaoImpl;
+import web.model.Car;
 
 import java.util.List;
 

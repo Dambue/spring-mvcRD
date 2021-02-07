@@ -1,6 +1,4 @@
-package web.config.model;
-
-import org.springframework.context.annotation.Bean;
+package web.model;
 
 public class Car {
     private String manufacture;

@@ -1,9 +1,9 @@
-package web.config.DAO;
+package web.service;
 
-import web.config.model.Car;
+import web.model.Car;
 
 import java.util.List;
 
-public interface CarDao {
+public interface CarService {
     public List<Car> getCars(List<Car> cars, int count);
 }
